@@ -19,5 +19,4 @@ Aspiring Software Engineer<br>Pursuing B.Tech Computer Science and Engineering f
 ## 🧩 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/jayantsharda?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/jayantsharda/)
 
----
-[![Profile Views](https://komarev.com/ghpvc/?username=JayantSharda09&color=blue)](https://visitcount.itsvg.in)
+
